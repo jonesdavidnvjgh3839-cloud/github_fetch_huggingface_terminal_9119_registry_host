@@ -16,7 +16,7 @@
       "name": "Extractive Question Answering Corpus",
       "slug": "extractive-qa",
       "upstream": "rajpurkar/squad",
-      "license": "MIT"
+      "license": "CC-BY-SA-4.0"
     }
   ]
 }
